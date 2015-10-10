@@ -7,4 +7,6 @@ int main()
 	printf("Give me one number: ");
 	scanf("%f",&x);
 	printf("\n");
+	printf("Give me another number: ");
+	scanf("%f",&y);
 }
