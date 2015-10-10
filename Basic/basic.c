@@ -6,4 +6,5 @@ int main()
 	float x;
 	printf("Insert a number:\n");
 	scanf("%f",&x);
+	printf("The numer is %f\n",x);
 }
