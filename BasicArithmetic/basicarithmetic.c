@@ -10,4 +10,7 @@ int main()
 	printf("Give me another number: ");
 	scanf("%f",&y);
 	printf("\n");
+	
+	z = x + y;
+	printf("The sum of %f and %f is %f", x, y, z);
 }
