@@ -9,4 +9,5 @@ int main()
 	printf("\n");
 	printf("Give me another number: ");
 	scanf("%f",&y);
+	printf("\n");
 }
