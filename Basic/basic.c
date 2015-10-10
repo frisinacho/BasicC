@@ -4,4 +4,5 @@
 int main()
 {
 	float x;
+	printf("Insert a number:\n");
 }
