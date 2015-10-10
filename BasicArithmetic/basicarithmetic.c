@@ -6,4 +6,5 @@ int main()
 	float x, y, z;
 	printf("Give me one number: ");
 	scanf("%f",&x);
+	printf("\n");
 }
