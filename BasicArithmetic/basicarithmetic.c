@@ -11,8 +11,8 @@ int main()
 	printf("\n");
 	
 	z = x + y;
-	printf("The sum of %f and %f is %f", x, y, z);
-	
+	printf("The sum of %f and %f is %f\n", x, y, z);
+
 	z = x - y;
-	printf("The subtraction of %f and %f is %f", x, y, z);
+	printf("The subtraction of %f and %f is %f\n", x, y, z);
 }
