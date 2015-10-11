@@ -9,4 +9,5 @@ int main()
 	char c;	// 0 to 127, 1 byte
 	long l;	// -214748368 to 214748367, 4 bytes
 	float f;	// Decimals, 4 bytes
+	double d;	// 8 bytes
 }
