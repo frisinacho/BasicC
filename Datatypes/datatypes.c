@@ -11,4 +11,10 @@ int main()
 	float f;	// Decimals, 4 bytes
 	double d;	// 8 bytes
 	long double ld;	// 10 bytes
+
+	y = 123;
+	uy = 61234;
+	c = 'A';
+	f = 123.45;
+	d = -123.45678;
 }
