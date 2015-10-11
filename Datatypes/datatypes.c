@@ -3,4 +3,5 @@
 
 int main()
 {
+	short y;	// -32768 to 32767, 2 bytes
 }
