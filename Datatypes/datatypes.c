@@ -10,4 +10,5 @@ int main()
 	long l;	// -214748368 to 214748367, 4 bytes
 	float f;	// Decimals, 4 bytes
 	double d;	// 8 bytes
+	long double ld;	// 10 bytes
 }
