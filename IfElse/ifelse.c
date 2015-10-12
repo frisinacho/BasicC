@@ -18,4 +18,6 @@ int main()
 	{
 		r = x - y;
 	}
+
+	printf("The final result is: %d", r);
 }
