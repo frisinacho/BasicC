@@ -13,4 +13,6 @@ int main()
 
 	c1 = ferrari;
 	c2 = bmw;
+
+	printf("%d", c2);	// It shows the order value: c2=3
 }
