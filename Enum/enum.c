@@ -10,4 +10,7 @@ int main()
 		bmw,
 		mercedes
 	}c1,c2,c3,c4,c5;
+
+	c1 = ferrari;
+	c2 = bmw;
 }
