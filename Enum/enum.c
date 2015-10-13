@@ -4,11 +4,11 @@
 int main()
 {
 	enum cars{
-		chevy,
-		toyota,
-		ferrari,
-		bmw,
-		mercedes
+		chevy,		// 0
+		toyota,		// 1
+		ferrari,	// 2
+		bmw,		// 3
+		mercedes	// 4
 	}c1,c2,c3,c4,c5;
 
 	c1 = ferrari;
