@@ -6,7 +6,7 @@ int main()
 	int *i;
 	printf("%p\n",&i);
 
-	char c;
+	char *c;
 	c = "hola mundo";
-	printf("%s\n",&c);
+	printf("%s\n",c);
 }
