@@ -46,4 +46,10 @@ int main(int argc, const char * argv[])
 
 	quicksort(list,size);
 
+	printf("Ordered list:\n");
+	for(int i=0; i<size; i++){
+		printf("%d",list[i]);
+		if(i<size-1){
+			printf(",");
+	}
 }
