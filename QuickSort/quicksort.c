@@ -44,4 +44,6 @@ int main(int argc, const char * argv[])
 
 	printf("\n");
 
+	quicksort(list,size);
+
 }
