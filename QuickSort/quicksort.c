@@ -24,3 +24,8 @@ void qs(int list[], int left_limit, int right_limit)
 	if(left_limit < right){qs(list, left_limit, right);}
 	if(right_limit > left){qs(list, left, right_limit);}
 }
+
+void quicksort(int list[], int n)
+{
+	qs(list, 0, n-1);
+}
