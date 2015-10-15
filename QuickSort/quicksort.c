@@ -34,4 +34,11 @@ int main(int argc, const char * argv[])
 {
 	int list[] = {100,56,0,1,-45,2,46,5,9,6,67,23,5];
 	int size = sizeof(list)/sizeof(int);
+
+	printf("Unordered list:\n");
+	for(int i=0; i<size; i++){
+		printf("%d",lista[i]);
+		if(i<size-1)
+			printf(",");
+	}
 }
