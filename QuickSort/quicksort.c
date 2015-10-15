@@ -52,4 +52,6 @@ int main(int argc, const char * argv[])
 		if(i<size-1){
 			printf(",");
 	}
+
+	return 0;
 }
