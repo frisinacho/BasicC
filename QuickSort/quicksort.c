@@ -7,4 +7,8 @@ void qs(int list[], int left_limit, int right_limit)
 	left = left_limit;
 	right = right_limit;
 	ref = list[(left+right)/2];
+
+	do{
+		
+	}while(left>=right);
 }
