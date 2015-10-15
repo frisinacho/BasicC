@@ -29,3 +29,7 @@ void quicksort(int list[], int n)
 {
 	qs(list, 0, n-1);
 }
+
+int main(int argc, const char * argv[])
+{
+}
