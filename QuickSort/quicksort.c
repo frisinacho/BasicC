@@ -19,7 +19,7 @@ void qs(int list[], int left_limit, int right_limit)
 			left++;
 			right--;
 		}
-	}while(left>=right);
+	}while(left<=right);
 	
 	if(left_limit < right){qs(list, left_limit, right);}
 	if(right_limit > left){qs(list, left, right_limit);}
