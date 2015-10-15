@@ -32,7 +32,7 @@ void quicksort(int list[], int n)
 
 int main(int argc, const char * argv[])
 {
-	int list[] = {100,56,0,1,-45,2,46,5,9,6,67,23,5];
+	int list[] = {100,56,0,1,-45,2,46,5,9,6,67,23,5};
 	int size = sizeof(list)/sizeof(int);
 
 	printf("Unordered list:\n");
