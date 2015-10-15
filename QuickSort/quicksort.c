@@ -49,7 +49,7 @@ int main(int argc, const char * argv[])
 	printf("Ordered list:\n");
 	for(int i=0; i<size; i++){
 		printf("%d",list[i]);
-		if(i<size-1){
+		if(i<size-1)
 			printf(",");
 	}
 
