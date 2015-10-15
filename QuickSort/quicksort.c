@@ -11,5 +11,8 @@ void qs(int list[], int left_limit, int right_limit)
 	do{
 		while(list[left]<ref && left<right_limit) left++;
 		while(ref<list[right] && right>left_limit) right--;
+		if (left <= right)
+		{
+		}
 	}while(left>=right);
 }
